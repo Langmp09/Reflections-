@@ -1,0 +1,5 @@
+What happens when you initialise a repository?
+You create a hidden git file storage system.
+
+Why do you need to do it?
+So you can make commits and work with version control. 

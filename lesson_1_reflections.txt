@@ -1,0 +1,17 @@
+Q: How did viewing a diff between two versions of a file help you see the bug that was introduced?
+A: A diff is useful to highlight the changed sections of a file, rather than comparing a long section of code manually. 
+A bug that was introduced (new) is going to be highlighted as a change and will be easily spottable with a diff.
+Q: How could having easy access to the entire history of a file make you a more efficient programmer in the long run?
+A: Allows you to make changes to the code, test and modify if necessary. 
+You won't lose anything and can remove new code that is affected old code.
+Q: What are the pros and cons of manual saving methods?
+Pros: flexibility needed so that each change is a logical step
+Cons: user error - not committing often enough or too often
+Q: Why do you think Git allows multiple files to be saved together, while Google docs doesn't?
+A: It is useful in Git because the files are all highly interrelated, but usually independent in google docs.
+Q: how can you use git log and git diff to view the history of files? 
+A: Git log prints out all the different commits and git diff allows your to easily spot the differences.
+Q: How might version control give you confidence to make changes that might break something?
+A: Gives you reassurance that all changes are relatively easily reversable. 
+Q: What do you want to try using Git for?
+A: For quickly saving files and looking through changes in code.
