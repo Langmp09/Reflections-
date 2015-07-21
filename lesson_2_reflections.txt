@@ -3,3 +3,34 @@ You create a hidden git file storage system.
 
 Why do you need to do it?
 So you can make commits and work with version control. 
+
+How is the staging area different from the working directory and the repository?
+The staging area lets you decide which files to add to a commit.
+
+What value do you think it offers?
+Gives you flexibility and power to choose files related to a logical change,
+instead of bundling everything together.
+
+How can you use the staging area to make sure 
+you have one commit per logical change?
+Using git diff you can compare versions of files and 
+only introduce one logical change at a time.
+
+What are some situations when branches would be helpful in keeping your history organized? 
+Branches would be useful for experimental changes to try different things.
+
+How would branches help?
+Branches would allow you to checkout experimental changes for testing.
+
+How do the diagrams help you visualize the branch structure?
+Diagrams are helpful to map out changes and branches so you understand the flow.
+
+What is the result of merging two branches together? 
+Merging two branches combines the changes made on each branch.
+
+Why do we represent it in the diagram the way we do?
+It shows which commits are accessible. 
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Efficiency vs flexibility. Want to make it as efficient as possible but
+to avoid errors and mistakes that occur with a blunt instrument. 
