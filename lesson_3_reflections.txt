@@ -14,3 +14,5 @@ branches are for building on your own project in different ways.
 What is the benefit of having a copy of the last known state of the remote stored locally?
 In case you go offline it is good to have the changes on the remote to merge. 
 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Probably email changes back and forth, very difficult to keep track of especially in large teams. 
